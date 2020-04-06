@@ -1,0 +1,33 @@
+﻿Name: Jaskirat Josan
+SID:200373685
+Name: Sana Khan
+SID:200377106
+CS 205
+PROJECT RESEARCH
+INTRODUCTION: 
+Engaging users in any form of media such as internet articles, marketing, games etc. is often hard and almost impossible if done just by means of text or speech. Therefore, to attract viewers and to convey the desired message of the media to the customers, multi-media was introduced. Multimedia is a medium of expression which uses audio and visual representations to interact with users. There are five basic components of multimedia which includes text, photographs and graphics, video or dynamic graphics and lastly graphic interchange formats(GIFs) or animations.
+Therefore, this paper mainly focuses on animations components of multimedia and how use of animation can portray the message among users easily. This detailed research paper will identify the uses of animation, its various forms, evolution of animation as technology was introduced and what are some of the confusions and errors that can occur while adopting animation especially by means of programming.
+ANIMATION:
+Animation is a sequence of designed layouts or still images which are played within a desired frame rate to portray motion in graphics. For example, a set of images with all containing the same ellipse but in every image this ellipse shifts 10 points towards the right. If these images are played in sequence with enough speed it would make viewers believe that the picture is moving.
+1. History:
+At first, animation was introduced purely as a form of art which did not have any involvement in technology. Before the advancement of computers, animation was practiced as sketching where artists would draw a sequence of sketches of similar objects to portray their story which would give a sense of motion to people. But soon new means of mass communication were established and an enormous revolution of computer science occurred which led to softwares and tools that later helped in turning animation as a part of multimedia.
+2. Variations of Animation: 
+Over time, animation has developed into a vast topic with many variations. Therefore, there are four basic types of animations that cover different styles and ways of presenting animation.
+   1. Traditional animation: 
+   2. Stop motion animation:
+   3. Motion graphics:
+   4. Computer animation:
+      1. 2D- animation:
+      2. 3D- animation:
+3. Impacts on Multimedia & Uses: 
+Programming Environments:
+1. Methods of Programmings:
+2. Links to Designed Examples & Their Descriptions:
+3. Commons Errors:
+Conclusion:
+Resources:
+* https://www.indiaeducation.net/animation/what-is-animation.html
+* http://www.instantshift.com/2019/01/28/everything-about-animation/
+* https://www.bloopanimation.com/types-of-animation/
+* https://smallbusiness.chron.com/5-components-multimedia-28279.html
+*
